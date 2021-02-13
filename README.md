@@ -1,1 +1,2 @@
-# thanos-vs-iron-man-
+# kill-the-monster-game
+kill-the-monster-game
